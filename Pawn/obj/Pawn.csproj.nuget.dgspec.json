@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hilar\\source\\repos\\Pawn\\Pawn\\Pawn.csproj": {}
+    "C:\\Users\\canqu\\source\\repos\\Pawn\\Pawn\\Pawn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hilar\\source\\repos\\Pawn\\Pawn\\Pawn.csproj": {
+    "C:\\Users\\canqu\\source\\repos\\Pawn\\Pawn\\Pawn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilar\\source\\repos\\Pawn\\Pawn\\Pawn.csproj",
+        "projectUniqueName": "C:\\Users\\canqu\\source\\repos\\Pawn\\Pawn\\Pawn.csproj",
         "projectName": "Pawn",
-        "projectPath": "C:\\Users\\hilar\\source\\repos\\Pawn\\Pawn\\Pawn.csproj",
-        "packagesPath": "C:\\Users\\hilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilar\\source\\repos\\Pawn\\Pawn\\obj\\",
+        "projectPath": "C:\\Users\\canqu\\source\\repos\\Pawn\\Pawn\\Pawn.csproj",
+        "packagesPath": "C:\\Users\\canqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canqu\\source\\repos\\Pawn\\Pawn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\canqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
