@@ -9,8 +9,18 @@
 
 <div class="container-fluid">
     <div class="row justify-content-start">
-        <div class="col-md-5">
-           <p class="h4" style="padding-bottom: 10px;"><strong>Customer List</strong></p>
+        <div class="col-md-1">
+            <a asp-controller="Home" asp-action="Index">
+                <button style="border: none;" asp-controller="Home" asp-action="Index">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd"
+                              d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z" />
+                    </svg>
+                </button>
+            </a>
+        </div>
+        <div class="col-md-4">
+           <p class="h4" style="padding-bottom: 10px;"><strong>CUSTOMER LIST</strong></p>
         </div>
         <div class="col-sm-3">
             <input type="text" class="form-control" placeholder="Search" id="searchItem" />
@@ -19,7 +29,7 @@
             <input type="button" class="form-control btn btn-primary" value="Search" id="btnSearch" />
         </div>
         <div class="col-sm-2">
-            <input type="button" class="form-control btn btn-primary" value="Create New" id="btnCreateNew"/>
+            <a asp-controller="Home" asp-action="CustomerForm" class="form-control btn btn-primary" value="" id="btnCreateNew">Create New</a>
         </div>
     </div>
 </div>
@@ -51,8 +61,13 @@
                         <td style="word-wrap: break-word;min-width: 160px;max-width: 250px;">08/12/2003</td>
                         <td style="word-wrap: break-word;min-width: 160px;max-width: 300px;">09393157101</td>
                         <td style="word-wrap: break-word;min-width: 160px;max-width: 500px;">
-                            <input class="btn btn-primary" type="button" value="Edit" />&nbsp;
-                            <input class="btn btn-danger" type="button" value="Delete" />
+                        <td>
+                            <a asp-controller="Home" asp-action="CustomerUpdate" asp-route-Id=""
+                               class=" btn btn-primary mx-2">Edit</a>
+                        </td>
+                        <td>                           
+                            <a asp-controller="Home" asp-action="Delete" asp-route-Id=""
+                               class=" btn btn-danger mx-2">Delete</a>
                         </td>
                     </tr>
                     @*  } *@

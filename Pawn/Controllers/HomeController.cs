@@ -17,6 +17,11 @@ namespace Pawn.Controllers
         {
             return View();
         }
+        // POTENTIALLY APPLICABLE TO ALL METHODS
+        public IActionResult Delete()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
@@ -55,6 +60,10 @@ namespace Pawn.Controllers
             return View();
         }
         public IActionResult Renewal()
+        {
+            return View();
+        }
+        public IActionResult Redeem()
         {
             return View();
         }

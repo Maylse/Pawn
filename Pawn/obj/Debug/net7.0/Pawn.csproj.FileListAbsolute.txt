@@ -59,3 +59,33 @@ C:\Users\hilar\source\repos\Pawn\Pawn\obj\Debug\net7.0\refint\Pawn.dll
 C:\Users\hilar\source\repos\Pawn\Pawn\obj\Debug\net7.0\Pawn.pdb
 C:\Users\hilar\source\repos\Pawn\Pawn\obj\Debug\net7.0\Pawn.genruntimeconfig.cache
 C:\Users\hilar\source\repos\Pawn\Pawn\obj\Debug\net7.0\ref\Pawn.dll
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\appsettings.Development.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\appsettings.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\Pawn.staticwebassets.runtime.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\Pawn.exe
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\Pawn.deps.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\Pawn.runtimeconfig.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\Pawn.dll
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\bin\Debug\net7.0\Pawn.pdb
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.GeneratedMSBuildEditorConfig.editorconfig
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.AssemblyInfoInputs.cache
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.AssemblyInfo.cs
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.csproj.CoreCompileInputs.cache
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.MvcApplicationPartsAssemblyInfo.cache
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.RazorAssemblyInfo.cache
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.RazorAssemblyInfo.cs
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets\msbuild.Pawn.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets\msbuild.build.Pawn.props
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pawn.props
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pawn.props
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets.pack.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets.build.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\staticwebassets.development.json
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\scopedcss\bundle\Pawn.styles.css
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\scopedcss\projectbundle\Pawn.bundle.scp.css
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.dll
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\refint\Pawn.dll
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.pdb
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\Pawn.genruntimeconfig.cache
+F:\MAYLSEEEEE\Foor Keeps\Scyn4pse-Pawn\Pawn\Pawn\obj\Debug\net7.0\ref\Pawn.dll

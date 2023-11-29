@@ -2,25 +2,22 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+    ViewData["Title"] = "Redeem";
 }
-@{
-    ViewData["Title"] = "Renewal";
-}
-
 <div class="container-fluid">
     <div class="row justify-content-start">
         <div class="col-md-1">
-            <a asp-controller="Home" asp-action="Index">
-                <button style="border: none;" asp-controller="Home" asp-action="Index">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
-                        <path fill-rule="evenodd"
-                              d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z" />
-                    </svg>
-                </button>
+            <a asp-controller ="Home" asp-action="Index">
+            <button style="border: none;" asp-controller="Home" asp-action="Index">
+                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                          d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z" />
+                </svg>
+            </button> 
             </a>
         </div>
         <div class="col-md-6">
-           <p class="h4" style="padding-bottom: 10px;"><strong>LIST OF RENEWABLE ITEMS</strong></p>
+            <p class="h4" style="padding-bottom: 10px;"><strong>ITEM REDEEM LIST</strong></p>
         </div>
         <div class="col-sm-3">
             <input type="text" class="form-control" placeholder="Search" id="searchItem" />
@@ -69,7 +66,7 @@
                         <td style="word-wrap: break-word;min-width: 100px;max-width: 120px;">10/09/2022</td>
                         <td style="word-wrap: break-word;min-width: 100px;max-width: 120px;">01/09/2003</td>
                         <td style="word-wrap: break-word;min-width: 110px;max-width: 170px;">P 1,980</td>
-                        
+
                         <td style="word-wrap: break-word;min-width: 100px;max-width: 130px;">
                             <input class="btn btn-primary" type="button" value="Renew Item" />&nbsp;
                         </td>

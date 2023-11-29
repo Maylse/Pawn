@@ -19,7 +19,32 @@
             <input type="button" class="form-control btn btn-primary" value="Search" id="btnSearch" />
         </div>
         <div class="col-sm-2">
-            <input type="button" class="form-control btn btn-primary" value="Create New" id="btnCreateNew" />
+            <div class="modal" tabindex="-1"></div>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Create
+            </button>
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <div class="row p-2 border border-dark" style="background-color: #ffff33;">
+                                Pawn Ticket Generator
+                            </div>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">           
+                            <div class="row border-bottom border-right border-left border-dark p-5">
+                                <div class="input-group">
+                                    <span class="input-group-text">Ticket Number</span>
+                                    <input type="text" class="form-control" placeholder="XXXXXX" value="">
+                                    <button class="btn btn-primary profile-button" type="button">Create</button>
+                                    <button class="btn btn-danger profile-button" type="button">Cancel</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
